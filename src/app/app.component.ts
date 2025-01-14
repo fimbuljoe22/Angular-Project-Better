@@ -27,6 +27,9 @@ export class AppComponent {
     });
   }
 
+  //NEW STUFF STILL UNALLOWED!
+
+
   newRound(){
     this.new={
       id:undefined,
